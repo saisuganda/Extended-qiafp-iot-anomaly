@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.ipynb_checkpoints/
+qiafp_results/
+*.npy
+data/
+data.txt.gz
+gecco2018_water.csv
+.kaggle/
+kaggle.json
