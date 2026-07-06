@@ -4,8 +4,7 @@
 **Authors:** Sai Suganda Sutar, Dr. Geetika Vashishta  
 **Affiliation:** Department of Computer Science, College of Vocational Studies, University of Delhi
 
-[![Open In Colab](https://colab.research.google.com/drive/1tCwYATmuMK2lgI1xovjKrisc_fPBb7QE?authuser=1#scrollTo=dWJYvTNvcU2Q)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saisuganda/Extended-qiafp-iot-anomaly/blob/main/Extended_QIAFP_Experiments%20.ipynb.ipynb)
 ## Overview
 
 This repository contains the complete experiment code for the QIAFP paper. The notebook evaluates hybrid classical–quantum feature fusion for anomaly detection across three IoT datasets:
